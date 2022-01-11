@@ -44,23 +44,31 @@ And the latest commits on my networking graph from my back-end respoitory:
 
 ### Databases:
 H2: The H2 database was created with travel_app-schema.sql and travel_app-data.sql files to automatically populate the fields for testing purposes.
+![H2 Console](https://user-images.githubusercontent.com/93253355/148993048-f83f9d67-92f8-4f85-a702-61c9294eaedc.jpeg)
+![Photo of travel_app-data sql](https://user-images.githubusercontent.com/93253355/148993509-efaa5ba7-af16-466a-a32a-2389c272bd1c.png)
+![Photo of travel_app-schema sql](https://user-images.githubusercontent.com/93253355/148993529-27390245-dda2-4bfe-92b1-b2e39a8658b0.png)
 
-MySQL: This is the layout of my database for the Travel Destination App. It shows the datatype of each column and also that the 'City Name' field has to be unique.
+MySQL: This is the layout of my database for the Travel Destination App.
+![MySQL](https://user-images.githubusercontent.com/93253355/148994009-b895a46c-ac9a-4c25-ab32-54cbf068cb14.png)
+
 
 ### Front-End: 
+This is the initial submission of my front-end.  As you can see it was difficult to read some of the words because of the dark colours of the background image. As a result, I changed it so that it is easier for the user to view.
+![Initial Submission of Travel App UI](https://user-images.githubusercontent.com/93253355/148995324-45eb9d0c-4be6-45e6-9a03-f0ab7b4607d2.jpeg)
+
 The front-end is built from HTML, CSS and JavaScript. I used the Bootstrap framework for a few components.
 ![Final UI](https://user-images.githubusercontent.com/93253355/148923598-d64819ce-66b1-46b0-a017-dfdf3df6880a.jpeg)
 
-How to CREATE data:
+CREATE data:
 ![Create Data](https://user-images.githubusercontent.com/93253355/148923744-e9a7df7d-37d3-4e6c-b798-3f7c1fbda066.jpeg)
 
-How to READ data:
+READ data:
 ![Read Data](https://user-images.githubusercontent.com/93253355/148923816-01c06c71-e93e-4fdf-89a9-62c45165e28b.jpeg)
 
-How to EDIT data:
+EDIT data:
 ![Edit Data](https://user-images.githubusercontent.com/93253355/148923755-caf8bc9d-aac3-4895-8dbd-5af615b5f2e0.jpeg)
 
-How to DELETE data:
+DELETE data:
 ![API - Delete popup box](https://user-images.githubusercontent.com/93253355/148923859-5971e9e6-46b9-49a8-a7c8-392abcbce301.png)
 
 ### Back-End:
