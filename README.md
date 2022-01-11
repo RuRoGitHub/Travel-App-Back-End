@@ -1,6 +1,6 @@
 # Cloud Native Project - README.md
 
-## Travel Destination App: Front-End 
+## Travel Destination App: Back-End 
 Ru Rowe, December 2021 - Janauary 2022
 
 ### Important Links:
@@ -19,7 +19,7 @@ The project brief was to create a CRUD (Create, Read, Update, Delete) applicatio
 
 4. Java SE & Spring Boot - Functional application created in OOP (Object-Oriented Programming) language which meets requirements of Kanban board.
 
-5. Testing - Acceptable level of test coverage on back-end (JUnit, MockMVC and Mockito).
+5. Testing - Acceptable level of test coverage on back-end (JUnit and MockMVC).
 
 ### Planning Resources:
 Using Jira Software I created a Kanban board modelled as a Scrum and created the user stories. From the user stories I created linked issues for the front and back end of my project to help the structure of the build. I created five main user stories, an example of one is shown here:
